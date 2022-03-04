@@ -34,3 +34,7 @@ Server
 日志配置文件
 
 logback-spring.xml
+
+### 单元测试
+
+单元测试类路径：\client\src\test\java\test.java
