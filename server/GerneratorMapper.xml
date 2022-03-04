@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+    <classPathEntry
+            location="C:\Users\will\mysql-connector-java-8.0.28\mysql-connector-java-8.0.28.jar"/>
+    <context id="DB2Tables" targetRuntime="Mybatis3">
+        <!-- 避免生成重复代码的插件 -->
+        <!--   <plugin type="com.vi.tmall.util.OverlsMergeablePlugin"/>-->
+        <!-- 是否不生成注释 -->
+        <commentGenerator>
+            <property name="suppressDate" value="true"/>
+            <property name="suppressAllComments" value="true"/>
+        </commentGenerator>
+
+        <!--数据库链接地址账号密码-->
+        <!--nullCatalogMeansCurrent=true防止多个数据库中有相同名字的表造成的生成重复代码的问题-->
+        <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver"
+                        connectionURL="jdbc:mysql://localhost:3306/test?useSSL=false&amp;serverTimezone=UTC&amp;allowPublicKeyRetrieval=true&amp;nullCatalogMeansCurrent=true"
+                        userId="root" password="6647267"/>
+        <!-- 这个元素的配置用来指定JDBC类型和Java类型如何转换。 -->
+        <javaTypeResolver>
+            <!-- 是否强制将DECIMAL和NUMERIC类型的字段转换为Java类型的java.math.BigDecimal -->
+            <property name="forceBigDecimals" value="false"/>
+        </javaTypeResolver>
+        <!-- targetPackage:生成实体类存放的包名,targetProject:指定目标项目路径，可以是绝对路径或相对路径（如 targetProject="src/main/java"）-->
+        <javaModelGenerator targetPackage="com.jyw.entity" targetProject="src/main/java">
+            <!--enableSubPackages 如果true，MBG会根据catalog和schema来生成子包。如果false就会直接用targetPackage属性。默认为false-->
+            <property name="enableSubPackages" value="false"/>
+            <!-- trimStrings:是否对数据库查询结果进行trim操作，如果设置为true就会生成类似这样public void setUsername(String username)-->
+            <property name="trimString" value="true"/>
+        </javaModelGenerator>
+        <!--生成xml映射文件存放位置-->
+        <sqlMapGenerator targetPackage="mapper" targetProject="src/main/resources">
+            <property name="enableSubPackages" value="false"/>
+        </sqlMapGenerator>
+        <!--生成mapper类存放位置-->
+        <javaClientGenerator type="XMLMAPPER" targetPackage="com.jyw.mapper" targetProject="src/main/java">
+            <property name="enableSubPackages" value="false"/>
+        </javaClientGenerator>
+
+        <!-- 指定数据库表 -->
+                <table tableName="file" domainObjectName="File" enableCountByExample="false" enableUpdateByExample="fale"
+                       enableDeleteByExample="fale" enableSelectByExample="fale" selectByExampleQueryId="false"></table>
+
+    </context>
+</generatorConfiguration>

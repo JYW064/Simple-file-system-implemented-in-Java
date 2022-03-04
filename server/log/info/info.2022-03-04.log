@@ -1,0 +1,102 @@
+2022-03-04 12:05:22 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 3920 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-04 12:05:22 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-04 12:05:23 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-04 12:05:23 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-04 12:05:23 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-04 12:05:23 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-04 12:05:23 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-04 12:05:23 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 736 ms
+2022-03-04 12:05:24 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-04 12:05:24 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-04 12:05:24 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.591 seconds (JVM running for 2.383)
+2022-03-04 12:05:41 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-04 12:05:41 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-04 12:05:41 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
+2022-03-04 12:05:41 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-04 12:06:08 INFO  http-nio-8080-exec-8 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-04 12:06:08 INFO  http-nio-8080-exec-8 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-04 12:06:08 INFO  http-nio-8080-exec-8 com.jyw.controller.FileController 已下载文件：简历.pdf
+2022-03-04 12:36:56 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 11160 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-04 12:36:56 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-04 12:36:57 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-04 12:36:57 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-04 12:36:57 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-04 12:36:57 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-04 12:36:57 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-04 12:36:57 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 610 ms
+2022-03-04 12:36:57 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-04 12:36:57 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-04 12:36:57 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.365 seconds (JVM running for 1.877)
+2022-03-04 12:37:02 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-04 12:37:02 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-04 12:37:02 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
+2022-03-04 12:37:02 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-04 12:37:03 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-04 12:37:03 INFO  http-nio-8080-exec-1 com.jyw.controller.FileController 得到元数据：File{id=16, name='简历.pdf', type='.pdf', size=162668, time=Thu Mar 03 22:47:03 CST 2022, url='C:\Users\will\Desktop\upload\2022-03-03\61731a56-56bb-4d16-a1e9-4071e581ceaa.pdf', uuid='61731a56-56bb-4d16-a1e9-4071e581ceaa'}
+2022-03-04 12:45:37 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 21572 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-04 12:45:37 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-04 12:45:38 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-04 12:45:38 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-04 12:45:38 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-04 12:45:38 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-04 12:45:38 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-04 12:45:38 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 622 ms
+2022-03-04 12:45:38 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-04 12:45:38 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-04 12:45:38 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.367 seconds (JVM running for 1.848)
+2022-03-04 12:45:41 INFO  http-nio-8080-exec-4 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-04 12:45:41 INFO  http-nio-8080-exec-4 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-04 12:45:41 INFO  http-nio-8080-exec-4 org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
+2022-03-04 12:45:42 INFO  http-nio-8080-exec-4 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-04 12:45:42 INFO  http-nio-8080-exec-4 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-04 12:45:42 INFO  http-nio-8080-exec-4 com.jyw.controller.FileController 得到元数据：File{id=16, name='简历.pdf', type='.pdf', size=162668, time=Thu Mar 03 22:47:03 CST 2022, url='C:\Users\will\Desktop\upload\2022-03-03\61731a56-56bb-4d16-a1e9-4071e581ceaa.pdf', uuid='61731a56-56bb-4d16-a1e9-4071e581ceaa'}
+2022-03-04 12:50:56 INFO  http-nio-8080-exec-9 com.jyw.controller.FileController 得到元数据：File{id=16, name='简历.pdf', type='.pdf', size=162668, time=Thu Mar 03 22:47:03 CST 2022, url='C:\Users\will\Desktop\upload\2022-03-03\61731a56-56bb-4d16-a1e9-4071e581ceaa.pdf', uuid='61731a56-56bb-4d16-a1e9-4071e581ceaa'}
+2022-03-04 12:51:47 INFO  http-nio-8080-exec-3 org.apache.coyote.http11.Http11Processor Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target [/file/getData?uuid=0xe40xb80x8d0xe50xad0x980xe50x9c0xa80xe70x9a0x84uuid ]. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:494)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:271)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2022-03-04 12:52:21 INFO  http-nio-8080-exec-6 com.jyw.controller.FileController 得到元数据：null
+2022-03-04 12:53:06 INFO  http-nio-8080-exec-8 com.jyw.controller.FileController 得到元数据：null
+2022-03-04 12:55:55 INFO  http-nio-8080-exec-5 com.jyw.controller.FileController 得到元数据：null
+2022-03-04 12:56:16 INFO  http-nio-8080-exec-6 com.jyw.controller.FileController 得到元数据：null
+2022-03-04 13:12:32 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 18824 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-04 13:12:32 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-04 13:12:33 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-04 13:12:33 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-04 13:12:33 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-04 13:12:33 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-04 13:12:33 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-04 13:12:33 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 631 ms
+2022-03-04 13:12:33 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-04 13:12:33 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-04 13:12:33 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.406 seconds (JVM running for 1.89)
+2022-03-04 13:14:50 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 9916 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-04 13:14:50 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-04 13:14:51 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-04 13:14:51 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-04 13:14:51 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-04 13:14:51 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-04 13:14:51 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-04 13:14:51 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 777 ms
+2022-03-04 13:14:51 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-04 13:14:51 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-04 13:14:51 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.68 seconds (JVM running for 2.191)
+2022-03-04 13:20:22 INFO  http-nio-8080-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-04 13:20:22 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-04 13:20:22 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 16 ms
+2022-03-04 13:20:22 INFO  http-nio-8080-exec-2 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-04 13:20:22 INFO  http-nio-8080-exec-2 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-04 13:20:22 INFO  http-nio-8080-exec-2 com.jyw.controller.FileController 得到元数据：File{id=16, name='简历.pdf', type='.pdf', size=162668, time=Thu Mar 03 22:47:03 CST 2022, url='C:\Users\will\Desktop\upload\2022-03-03\61731a56-56bb-4d16-a1e9-4071e581ceaa.pdf', uuid='61731a56-56bb-4d16-a1e9-4071e581ceaa'}
+2022-03-04 13:20:33 INFO  http-nio-8080-exec-7 com.jyw.controller.FileController 文件元数据不存在
+2022-03-04 13:21:35 INFO  http-nio-8080-exec-5 com.jyw.controller.FileController 文件元数据不存在
+2022-03-04 13:22:36 INFO  http-nio-8080-exec-3 com.jyw.controller.FileController 文件元数据不存在
+2022-03-04 13:23:03 INFO  http-nio-8080-exec-9 com.jyw.controller.FileController 文件元数据不存在

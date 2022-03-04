@@ -1,0 +1,16 @@
+#端口号
+server:
+port: 8080
+
+#配置链接数据库
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test?useSSL=false&serverTimezone=GMT&allowPublicKeyRetrieval=true
+    username: root
+    password: 6647267
+
+
+#指定mapper映射文件的位置
+mybatis:
+  mapper-locations: classpath:mapper/*.xml

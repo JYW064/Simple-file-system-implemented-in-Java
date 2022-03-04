@@ -1,0 +1,704 @@
+2022-03-03 18:37:24 INFO  main com.jyw.StoreApplication Starting StoreApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 9656 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 18:37:24 INFO  main com.jyw.StoreApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 18:37:24 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 18:37:24 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 18:37:24 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 18:37:24 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 18:37:24 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 18:37:24 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 615 ms
+2022-03-03 18:37:24 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 18:37:24 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 18:46:49 INFO  main com.jyw.StoreApplication Starting StoreApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 9660 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 18:46:49 INFO  main com.jyw.StoreApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 18:46:50 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 18:46:50 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 18:46:50 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 18:46:50 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 18:46:50 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 18:46:50 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 577 ms
+2022-03-03 18:46:50 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 18:46:50 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 18:49:59 INFO  main com.jyw.StoreApplication Starting StoreApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 21688 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 18:49:59 INFO  main com.jyw.StoreApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 18:50:00 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 18:50:00 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 18:50:00 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 18:50:00 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 18:50:00 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 18:50:00 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 590 ms
+2022-03-03 18:50:00 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 18:50:00 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 18:53:17 INFO  main com.jyw.StoreApplication Starting StoreApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 18924 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 18:53:17 INFO  main com.jyw.StoreApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 18:53:18 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 18:53:18 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 18:53:18 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 18:53:18 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 18:53:18 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 18:53:18 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 583 ms
+2022-03-03 18:53:18 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 18:53:18 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 18:54:34 INFO  main com.jyw.StoreApplication Starting StoreApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 14212 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 18:54:34 INFO  main com.jyw.StoreApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 18:54:34 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 18:54:34 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 18:54:34 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 18:54:34 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 18:54:34 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 18:54:34 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 579 ms
+2022-03-03 18:54:34 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 18:54:34 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 18:55:33 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 16896 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 18:55:33 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 18:55:33 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 18:55:33 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 18:55:33 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 18:55:33 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 18:55:34 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 18:55:34 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 611 ms
+2022-03-03 18:55:34 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 18:55:34 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 18:56:20 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 26168 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 18:56:20 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 18:56:20 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 18:56:20 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 18:56:20 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 18:56:20 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 18:56:21 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 18:56:21 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 584 ms
+2022-03-03 18:56:21 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 18:56:21 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 18:56:34 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 17364 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 18:56:34 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 18:56:34 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 18:56:34 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 18:56:34 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 18:56:34 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 18:56:35 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 18:56:35 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 592 ms
+2022-03-03 18:56:35 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 18:56:35 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 18:58:42 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 25144 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 18:58:42 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 18:58:43 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 18:58:43 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 18:58:43 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 18:58:43 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 18:58:43 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 18:58:43 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 601 ms
+2022-03-03 18:58:43 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 18:58:43 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 18:59:42 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 21184 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 18:59:42 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 18:59:42 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 18:59:42 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 18:59:42 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 18:59:42 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 18:59:42 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 18:59:42 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 638 ms
+2022-03-03 18:59:42 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 18:59:42 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:00:37 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 9872 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:00:37 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:00:38 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:00:38 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:00:38 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:00:38 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:00:38 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:00:38 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 615 ms
+2022-03-03 19:00:38 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:00:38 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:00:53 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 22940 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:00:53 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:00:53 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:00:53 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:00:53 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:00:53 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:00:53 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:00:53 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 624 ms
+2022-03-03 19:00:54 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:00:54 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:03:10 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 22108 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:03:10 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:03:11 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:03:11 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:03:11 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:03:11 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:03:11 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:03:11 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 706 ms
+2022-03-03 19:03:11 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:03:11 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:03:23 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 25104 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:03:23 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:03:24 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:03:24 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:03:24 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:03:24 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:03:24 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:03:24 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 603 ms
+2022-03-03 19:03:24 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:03:24 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:04:10 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 9592 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:04:10 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:04:10 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:04:10 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:04:10 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:04:10 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:04:10 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:04:10 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 604 ms
+2022-03-03 19:04:10 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:04:10 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:04:22 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 2960 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:04:22 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:04:23 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:04:23 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:04:23 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:04:23 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:04:23 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:04:23 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 603 ms
+2022-03-03 19:04:23 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:04:23 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:04:59 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 3068 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:04:59 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:04:59 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:04:59 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:04:59 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:04:59 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:04:59 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:04:59 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 607 ms
+2022-03-03 19:05:00 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:05:00 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:05:22 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 27076 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:05:22 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:05:22 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:05:22 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:05:22 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:05:22 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:05:22 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:05:22 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 606 ms
+2022-03-03 19:05:22 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:05:22 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:05:43 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 20432 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:05:43 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:05:43 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:05:44 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:05:44 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:05:44 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:05:44 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:05:44 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 757 ms
+2022-03-03 19:05:44 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:05:44 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:06:23 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 540 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:06:23 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:06:23 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:06:23 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:06:23 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:06:23 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:06:24 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:06:24 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 598 ms
+2022-03-03 19:06:24 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:06:24 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:06:32 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 14968 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:06:32 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:06:33 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:06:33 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:06:33 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:06:33 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:06:33 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:06:33 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 621 ms
+2022-03-03 19:06:33 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:06:33 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:06:39 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 18380 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:06:39 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:06:40 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:06:40 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:06:40 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:06:40 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:06:40 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:06:40 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 601 ms
+2022-03-03 19:06:40 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:06:40 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:10:04 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 9392 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:10:04 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:10:04 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:10:04 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:10:04 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:10:04 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:10:04 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:10:04 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 595 ms
+2022-03-03 19:10:04 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:10:04 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:11:03 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 18524 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:11:03 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:11:03 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:11:03 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:11:03 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:11:03 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:11:03 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:11:03 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 581 ms
+2022-03-03 19:11:03 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:11:03 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:11:27 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 2468 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:11:27 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:11:28 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:11:28 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:11:28 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:11:28 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:11:28 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:11:28 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 576 ms
+2022-03-03 19:11:28 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:11:28 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:12:05 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 19268 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:12:05 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:12:06 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:12:06 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:12:06 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:12:06 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:12:06 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:12:06 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 582 ms
+2022-03-03 19:12:06 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:12:06 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:21:09 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 17028 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:21:09 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:21:09 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:21:09 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:21:09 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:21:09 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:21:09 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:21:09 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 582 ms
+2022-03-03 19:21:09 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:21:09 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:22:11 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 13184 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:22:11 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:22:12 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:22:12 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:22:12 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:22:12 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:22:12 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:22:12 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 612 ms
+2022-03-03 19:22:12 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:22:12 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:22:24 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 23284 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:22:24 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:22:24 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:22:24 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:22:24 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:22:24 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:22:25 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:22:25 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 591 ms
+2022-03-03 19:22:25 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:22:25 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:26:55 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 5720 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:26:55 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:26:55 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:26:55 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:26:55 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:26:55 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:26:56 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:26:56 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 589 ms
+2022-03-03 19:26:56 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 19:26:56 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 19:30:54 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 21944 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:30:54 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:30:54 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:30:54 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:30:54 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:30:54 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:30:54 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:30:54 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 615 ms
+2022-03-03 19:30:55 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:30:55 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 19:30:55 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.466 seconds (JVM running for 1.95)
+2022-03-03 19:31:22 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 19:31:22 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 19:31:22 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 19:33:41 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 24716 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:33:41 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:33:42 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:33:42 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:33:42 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:33:42 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:33:42 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:33:42 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 603 ms
+2022-03-03 19:33:42 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:33:42 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 19:33:42 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.354 seconds (JVM running for 1.816)
+2022-03-03 19:33:48 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 19:33:48 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 19:33:48 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 19:34:51 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 25596 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:34:51 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:34:51 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:34:51 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:34:51 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:34:51 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:34:52 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:34:52 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 613 ms
+2022-03-03 19:34:52 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:34:52 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 19:34:52 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.39 seconds (JVM running for 1.911)
+2022-03-03 19:34:55 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 19:34:55 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 19:34:55 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
+2022-03-03 19:42:32 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 12348 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:42:32 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:42:32 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:42:32 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:42:32 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:42:32 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:42:32 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:42:32 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 591 ms
+2022-03-03 19:42:33 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:42:33 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 19:42:33 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.361 seconds (JVM running for 1.825)
+2022-03-03 19:42:37 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 19:42:37 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 19:42:37 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 19:54:39 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 3488 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:54:39 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:54:40 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:54:40 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:54:40 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:54:40 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:54:40 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:54:40 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 599 ms
+2022-03-03 19:54:40 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:54:40 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 19:54:40 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.336 seconds (JVM running for 1.801)
+2022-03-03 19:54:52 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 19:54:52 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 19:54:52 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 19:54:52 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 19:55:59 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 13344 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 19:55:59 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 19:55:59 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 19:55:59 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:55:59 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 19:55:59 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 19:55:59 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 19:55:59 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 616 ms
+2022-03-03 19:56:00 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 19:56:00 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 19:56:00 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.426 seconds (JVM running for 1.914)
+2022-03-03 19:56:27 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 19:56:27 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 19:56:27 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 19:56:27 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 19:56:27 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 20:50:58 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 13220 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 20:50:58 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 20:50:58 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 20:50:58 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 20:50:58 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 20:50:58 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 20:50:59 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 20:50:59 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 718 ms
+2022-03-03 20:50:59 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 20:50:59 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 20:50:59 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.539 seconds (JVM running for 2.002)
+2022-03-03 20:51:03 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 20:51:03 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 20:51:03 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 20:51:03 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 20:51:03 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 20:54:16 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 25688 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 20:54:16 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 20:54:17 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 20:54:17 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 20:54:17 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 20:54:17 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 20:54:17 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 20:54:17 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 639 ms
+2022-03-03 20:54:17 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 20:54:17 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 20:54:17 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.411 seconds (JVM running for 1.974)
+2022-03-03 20:54:21 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 20:54:21 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 20:54:21 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
+2022-03-03 20:54:21 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 20:54:21 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 20:56:30 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 27044 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 20:56:30 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 20:56:30 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 20:56:30 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 20:56:30 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 20:56:30 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 20:56:31 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 20:56:31 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 659 ms
+2022-03-03 20:56:31 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 20:56:31 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 20:56:31 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.437 seconds (JVM running for 1.89)
+2022-03-03 21:02:26 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 7644 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 21:02:26 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 21:02:27 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 21:02:27 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 21:02:27 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 21:02:27 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 21:02:27 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 21:02:27 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 611 ms
+2022-03-03 21:02:27 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2022-03-03 21:02:27 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-03 21:03:02 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 21260 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 21:03:02 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 21:03:02 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 21:03:02 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 21:03:02 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 21:03:02 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 21:03:02 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 21:03:02 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 631 ms
+2022-03-03 21:03:03 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 21:03:03 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 21:03:03 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.392 seconds (JVM running for 1.843)
+2022-03-03 21:03:07 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 21:03:07 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 21:03:07 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 21:03:07 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 21:03:07 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 21:34:17 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 4016 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 21:34:17 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 21:34:17 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 21:34:17 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 21:34:17 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 21:34:17 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 21:34:17 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 21:34:17 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 659 ms
+2022-03-03 21:34:18 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 21:34:18 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 21:34:18 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.49 seconds (JVM running for 1.97)
+2022-03-03 21:34:24 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 21:34:24 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 21:34:24 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 21:34:24 INFO  http-nio-8080-exec-1 com.jyw.controller.FileController 已接受文件：简历.pdf
+2022-03-03 21:34:24 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 21:34:24 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 21:36:42 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 21120 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 21:36:42 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 21:36:42 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 21:36:42 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 21:36:42 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 21:36:42 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 21:36:42 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 21:36:42 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 607 ms
+2022-03-03 21:36:43 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 21:36:43 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 21:36:43 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.349 seconds (JVM running for 1.82)
+2022-03-03 21:36:49 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 21:36:49 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 21:36:49 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 21:36:49 INFO  http-nio-8080-exec-1 com.jyw.controller.FileController 已接受文件：简历.pdf
+2022-03-03 21:36:49 INFO  http-nio-8080-exec-1 com.jyw.controller.FileController 重命名为：2a38a5be-60eb-4b08-bfb2-884c7182af08
+2022-03-03 21:36:49 INFO  http-nio-8080-exec-1 com.jyw.controller.FileController 文件保存路径：C:\Users\will\Desktop\test\2022-03-03\2a38a5be-60eb-4b08-bfb2-884c7182af08pdf
+2022-03-03 21:36:49 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 21:36:49 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 22:05:26 INFO  http-nio-8080-exec-8 com.jyw.controller.FileController 新建文件夹...
+2022-03-03 22:06:32 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 21064 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 22:06:32 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 22:06:33 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 22:06:33 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:06:33 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 22:06:33 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 22:06:33 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 22:06:33 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 669 ms
+2022-03-03 22:06:33 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:06:33 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 22:06:33 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.448 seconds (JVM running for 1.932)
+2022-03-03 22:06:38 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 22:06:38 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 22:06:38 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 22:06:38 INFO  http-nio-8080-exec-1 com.jyw.controller.FileController 已接受文件：简历.pdf
+2022-03-03 22:06:38 INFO  http-nio-8080-exec-1 com.jyw.controller.FileController 文件重命名：e3ac9b4c-12e2-4484-9cde-0453c987f3fa
+2022-03-03 22:06:38 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 22:06:39 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 22:07:09 INFO  http-nio-8080-exec-3 com.jyw.controller.FileController 已接受文件：简历.pdf
+2022-03-03 22:07:09 INFO  http-nio-8080-exec-3 com.jyw.controller.FileController 文件重命名：1461f747-a628-46c6-80a0-fe5496b35fe7
+2022-03-03 22:07:17 INFO  http-nio-8080-exec-5 com.jyw.controller.FileController 已接受文件：简历.pdf
+2022-03-03 22:07:17 INFO  http-nio-8080-exec-5 com.jyw.controller.FileController 文件重命名：845db094-7d73-4925-ad51-38bc545ecc9f
+2022-03-03 22:32:37 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 24636 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 22:32:37 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 22:32:37 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 22:32:37 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:32:37 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 22:32:37 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 22:32:37 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 22:32:37 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 666 ms
+2022-03-03 22:32:38 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:32:38 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 22:32:38 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.448 seconds (JVM running for 1.963)
+2022-03-03 22:36:20 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 22:36:20 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 22:36:20 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 22:36:20 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 22:36:20 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 22:36:20 INFO  http-nio-8080-exec-1 com.jyw.controller.FileController 文件不存在
+2022-03-03 22:36:46 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 19484 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 22:36:46 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 22:36:46 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 22:36:46 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:36:46 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 22:36:46 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 22:36:47 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 22:36:47 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 652 ms
+2022-03-03 22:36:47 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:36:47 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 22:36:47 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.505 seconds (JVM running for 2.0)
+2022-03-03 22:37:48 INFO  http-nio-8080-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 22:37:48 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 22:37:48 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 22:37:48 INFO  http-nio-8080-exec-2 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 22:37:48 INFO  http-nio-8080-exec-2 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 22:37:48 INFO  http-nio-8080-exec-2 com.jyw.controller.FileController 文件不存在
+2022-03-03 22:38:57 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 3708 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 22:38:57 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 22:38:57 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 22:38:57 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:38:57 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 22:38:57 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 22:38:57 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 22:38:57 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 645 ms
+2022-03-03 22:38:58 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:38:58 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 22:38:58 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.472 seconds (JVM running for 1.956)
+2022-03-03 22:39:02 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 22:39:02 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 22:39:02 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 22:39:02 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 22:39:02 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 22:39:34 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 15120 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 22:39:34 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 22:39:34 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 22:39:34 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:39:34 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 22:39:34 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 22:39:34 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 22:39:34 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 662 ms
+2022-03-03 22:39:35 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:39:35 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 22:39:35 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.504 seconds (JVM running for 1.993)
+2022-03-03 22:39:37 INFO  http-nio-8080-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 22:39:37 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 22:39:37 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 22:39:37 INFO  http-nio-8080-exec-2 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 22:39:37 INFO  http-nio-8080-exec-2 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 22:39:37 INFO  http-nio-8080-exec-2 com.jyw.controller.FileController 文件：wdw 不存在!
+2022-03-03 22:47:02 INFO  http-nio-8080-exec-5 com.jyw.controller.FileController 已接受文件：简历.pdf
+2022-03-03 22:47:02 INFO  http-nio-8080-exec-5 com.jyw.controller.FileController 文件重命名：61731a56-56bb-4d16-a1e9-4071e581ceaa
+2022-03-03 22:48:58 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 5908 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 22:48:58 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 22:48:59 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 22:48:59 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:48:59 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 22:48:59 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 22:48:59 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 22:48:59 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 619 ms
+2022-03-03 22:48:59 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:48:59 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 22:48:59 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.411 seconds (JVM running for 1.895)
+2022-03-03 22:49:02 INFO  http-nio-8080-exec-6 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 22:49:02 INFO  http-nio-8080-exec-6 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 22:49:02 INFO  http-nio-8080-exec-6 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 22:49:02 INFO  http-nio-8080-exec-6 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 22:49:02 INFO  http-nio-8080-exec-6 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 22:50:25 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 4208 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 22:50:25 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 22:50:26 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 22:50:26 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:50:26 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 22:50:26 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 22:50:26 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 22:50:26 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 625 ms
+2022-03-03 22:50:26 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 22:50:27 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 22:50:27 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.416 seconds (JVM running for 1.918)
+2022-03-03 22:50:50 INFO  http-nio-8080-exec-5 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 22:50:50 INFO  http-nio-8080-exec-5 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 22:50:50 INFO  http-nio-8080-exec-5 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2022-03-03 22:50:50 INFO  http-nio-8080-exec-5 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 22:50:50 INFO  http-nio-8080-exec-5 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 22:50:50 INFO  http-nio-8080-exec-5 com.jyw.controller.FileController 已下载文件：简历.pdf
+2022-03-03 22:53:05 INFO  http-nio-8080-exec-3 com.jyw.controller.FileController 已下载文件：简历.pdf
+2022-03-03 22:55:41 INFO  http-nio-8080-exec-4 com.jyw.controller.FileController 已下载文件：简历.pdf
+2022-03-03 22:56:11 INFO  http-nio-8080-exec-7 com.jyw.controller.FileController 已下载文件：简历.pdf
+2022-03-03 22:56:23 INFO  http-nio-8080-exec-9 com.jyw.controller.FileController 已下载文件：简历.pdf
+2022-03-03 23:00:20 INFO  http-nio-8080-exec-5 com.jyw.controller.FileController 已下载文件：简历.pdf
+2022-03-03 23:05:30 INFO  http-nio-8080-exec-3 com.jyw.controller.FileController 已下载文件：简历.pdf
+2022-03-03 23:06:41 INFO  http-nio-8080-exec-4 com.jyw.controller.FileController 已下载文件：简历.pdf
+2022-03-03 23:07:09 INFO  http-nio-8080-exec-7 com.jyw.controller.FileController 已下载文件：简历.pdf
+2022-03-03 23:10:07 INFO  main com.jyw.ServerApplication Starting ServerApplication using Java 1.8.0_311 on DESKTOP-1RAFTV8 with PID 13244 (C:\Users\will\IdeaProjects\server\target\classes started by will in C:\Users\will\IdeaProjects\server)
+2022-03-03 23:10:07 INFO  main com.jyw.ServerApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-03 23:10:08 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-03-03 23:10:08 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-03 23:10:08 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2022-03-03 23:10:08 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-03 23:10:08 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2022-03-03 23:10:08 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 654 ms
+2022-03-03 23:10:08 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2022-03-03 23:10:08 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-03 23:10:08 INFO  main com.jyw.ServerApplication Started ServerApplication in 1.457 seconds (JVM running for 1.934)
+2022-03-03 23:10:23 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-03 23:10:23 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2022-03-03 23:10:23 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
+2022-03-03 23:10:23 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Starting...
+2022-03-03 23:10:23 INFO  http-nio-8080-exec-1 com.zaxxer.hikari.HikariDataSource HikariPool-1 - Start completed.
+2022-03-03 23:10:23 INFO  http-nio-8080-exec-1 com.jyw.controller.FileController 已下载文件：简历.pdf
